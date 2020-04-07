@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FC51-CFC4
+
+ Directory of C:\Users\admin\Desktop\myproject
+
+04/07/2020  01:09 AM    <DIR>          .
+04/07/2020  01:09 AM    <DIR>          ..
+04/07/2020  01:09 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  220,149,538,816 bytes free
